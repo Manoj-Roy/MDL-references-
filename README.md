@@ -1,8 +1,6 @@
 # MDL-references
 
-This is some of the references that's been implemented on my code with Google's Material Design Lite
-
-Some resources you could look up into
+These are some of the references that can be looked into.
 
 http://getmdl.io/ <br />
 http://getmdl.io/customize/index.html <br />
